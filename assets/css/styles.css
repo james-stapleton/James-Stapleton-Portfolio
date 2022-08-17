@@ -35,6 +35,22 @@ header nav ul li {
     margin-left: 25px;
 }
 
+a {
+    text-decoration: none;
+    color: var(--text-color);
+    border: solid rgb(15, 22, 122);
+}
+
+.profile-pic {
+    display: flex;
+    height: 500px;
+    width: 50%;
+    margin-bottom: 30px;
+    background-size: auto;
+    background-image: url("../images/IMG_2965.jpg");
+    float: left;
+    margin-right: 30px;
+}
 
 /* 
 git add . && git commit -m" */
