@@ -52,5 +52,16 @@ a {
     margin-right: 30px;
 }
 
+.Main-Project h2{
+    font-size: 36px;
+    display: flex;
+    width: 100%;
+    border-top: solid black;
+}
+
+.project1 img {
+width: 100%
+}
+
 /* 
 git add . && git commit -m" */
