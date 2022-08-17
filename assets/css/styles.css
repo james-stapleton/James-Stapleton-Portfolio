@@ -1,0 +1,15 @@
+:root {
+    --bg-color: rgb(73, 70, 70);
+    --text-color: rgb(223, 209, 209);
+    --bar-color: blue;   
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    font-size: 24px;
+}
