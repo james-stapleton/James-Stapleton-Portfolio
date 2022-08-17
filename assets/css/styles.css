@@ -63,5 +63,15 @@ a {
 width: 100%
 }
 
+.secondary-projects {
+    float: left;
+    width: 30%;
+ }
+ 
+ .secondary-projects img {
+     width: 70%;
+     height: 300px;
+ }
+
 /* 
 git add . && git commit -m" */
