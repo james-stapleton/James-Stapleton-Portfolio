@@ -23,5 +23,18 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
+
+header nav {
+    margin-right: 20px;
+    float: right;
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+
 /* 
 git add . && git commit -m" */
