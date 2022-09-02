@@ -61,7 +61,11 @@ a {
 }
 
 .project1 img {
-  width: 100%;
+  max-width: 500px;
+}
+
+#cocktail {
+  max-width: 1000px;
 }
 
 .secondary-projects {
